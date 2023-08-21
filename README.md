@@ -5,7 +5,7 @@ A web aplication CRUD using Nodejs y Mongodb (with mongoose)
 ### Installation
 
 ```
-cd next-mongodb-app
+cd next-mongodb
 npm i
 npm run dev
 ```
