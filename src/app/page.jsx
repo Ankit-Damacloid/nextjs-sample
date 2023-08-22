@@ -19,3 +19,8 @@ export default async function HomePage() {
     </div>
   );
 }
+
+// export const revalidate = false;
+
+// Opt out of caching for all data requests in the route segment
+export const dynamic = 'force-dynamic'
